@@ -1,5 +1,5 @@
 ---
-tittle:"Your blog post tittle"
+title:"Your blog post tittle"
 date: 2021-06-15
 ---
 this is my first week on thís github page
