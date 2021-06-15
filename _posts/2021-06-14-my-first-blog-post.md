@@ -1,6 +1,6 @@
 
 - - -
-tittle:my first blog
+tittle:"my first blog"
 date:2021-06-14
 - - -
 this is my first week on thís github page
